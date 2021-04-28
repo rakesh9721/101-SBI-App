@@ -5,4 +5,7 @@ class Demo{
 	public void getTicket(){
 		
 	}
+	public static void main(String args[]){
+	
+	}
 }
