@@ -5,8 +5,4 @@ class Demo{
 	public void getTicket(){
 		
 	}
-	public void payPrice()
-	{
-
-	}
 }
