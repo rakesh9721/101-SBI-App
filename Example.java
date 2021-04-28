@@ -5,4 +5,7 @@ public class Example{
 	public void method1(){
 	
 	}
+	public void getUserDtls(){
+		
+	}
 }
