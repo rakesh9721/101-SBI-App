@@ -1,1 +1,6 @@
-hello
+class Demo{
+	
+	public void getTicket(){
+	
+	}
+}
