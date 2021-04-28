@@ -7,4 +7,7 @@ public class Example{
 	
 	}
 
+	public void getUserDtls(){
+		
+	}
 }
