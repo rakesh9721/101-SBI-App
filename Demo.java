@@ -2,6 +2,8 @@ class Demo{
 	int age;
 	String name;
 	double price;
+	String loc;
+
 	public void getTicket(){
 		
 	}
